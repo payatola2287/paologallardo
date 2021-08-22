@@ -1,5 +1,5 @@
 # Paolo Gallardo Main Website #
-Main website for (paologallardo.com)[//paologallardo.com].
+Main website for [paologallardo.com](//paologallardo.com).
 
 ## Version ##
 Version 6.0
